@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mySendMsgBtn"
+            android:text="@string/sendMsg"/>
+    <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/myBrowserBtn"
+            android:text="@string/openBrowser"/>
+    <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/myMailBtn"
+            android:text="@string/openEmail"/>
+    <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/myGellaryBtn"
+            android:text="@string/openGellary"/>
+    <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/myCalendarBtn"
+            android:text="@string/openCalendar"/>
+    <TextView android:layout_height="wrap_content"
+              android:layout_width="wrap_content"
+              android:id="@+id/myEmailLink"
+              android:text="1111111@qq.com"/>
+</LinearLayout>

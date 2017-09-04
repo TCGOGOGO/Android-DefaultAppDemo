@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">默认应用测试</string>
+    <string name="sendMsg">发送短信</string>
+    <string name="openBrowser">打开浏览器</string>
+    <string name="openEmail">打开邮件</string>
+    <string name="openGellary">打开相册</string>
+    <string name="openCalendar">打开日历</string>>
+</resources>
